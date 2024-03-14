@@ -14,6 +14,8 @@ Controls:
 - Press Spacebar to flap the plane and ascend.
 - Release to allow the plane to descend.
 
+**Warning**: This game includes sound effects. Please adjust your volume accordingly.
+
 ## Features
 
 - Simple yet addictive gameplay reminiscent of the classic Flappy Bird.
