@@ -11,7 +11,7 @@ The objective of Flappy-Plane is simple: navigate your plane through the gaps be
 You can play Flappy-Plane online by following this link: [Play Flappy-Plane](https://ahmad-mamoon.github.io/Flappy-Plane/)
 
 Controls:
-- Click anywhere on the screen to flap the plane's wings and ascend.
+- Press Spacebar to flap the plane and ascend.
 - Release to allow the plane to descend.
 
 ## Features
